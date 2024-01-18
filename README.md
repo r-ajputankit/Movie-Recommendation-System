@@ -28,6 +28,8 @@ The primary objective of this project is to build a content-based movie recommen
 ### 1. Dataset Description:  
 The movie dataset used in this project was sourced from a reputable online database of movies. The dataset comprises a comprehensive collection of movies from various genres and time periods. It includes attributes such as movie titles, release dates, durations, ratings, genres, and textual information like movie descriptions, taglines, cast, crew, and keywords. These attributes provide rich information about each movie, enabling a thorough analysis for recommendation purposes.  
  Data Set Used:   TMDB Dataset  
+ 
+         https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
   
 ### 2. Data Cleaning:  
 Data cleaning is a crucial step in ensuring data quality and integrity. The process involved handling missing values and outliers in the dataset. Missing values were addressed by either imputing them using appropriate techniques or removing the corresponding instances, depending on the extent of missingness and the impact on the overall dataset quality. Outliers, which can adversely affect the analysis and recommendation results, were detected and treated using robust statistical techniques or domain-specific knowledge.  
